@@ -1,0 +1,186 @@
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Fila vazia.
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Pilha vazia.
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Descricao:
+Adicionado: ID 1 - Cafe
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Descricao:
+Adicionado: ID 2 - Cha
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Descricao:
+Adicionado: ID 3 - Bolo
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+ID 1 - Cafe
+ID 2 - Cha
+ID 3 - Bolo
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Cancelado: ID 1 - Cafe
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Cancelado: ID 2 - Cha
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+ID 2 - Cha
+ID 1 - Cafe
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Restaurado: ID 2 - Cha
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+ID 3 - Bolo
+ID 2 - Cha
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Atendido: ID 3 - Bolo
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Atendido: ID 2 - Cha
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Restaurado: ID 1 - Cafe
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Atendido: ID 1 - Cafe
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Nenhum pedido pendente.
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair
+Nenhum pedido cancelado.
+
+CAFETERIA
+1 Adicionar
+2 Atender
+3 Cancelar
+4 Restaurar
+5 Pendentes
+6 Cancelados
+0 Sair

@@ -1,0 +1,351 @@
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Playlist vazia.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Titulo:
+Artista:
+Album:
+Duracao em segundos:
+Adicionada: Zulu | Artista Z | Album Z | 3:30
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Titulo:
+Artista:
+Album:
+Duracao em segundos:
+Adicionada: Alfa | Artista A | Album A | 2:05
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Posicao (a partir de 1):
+Titulo:
+Artista:
+Album:
+Duracao em segundos:
+Adicionada: Meio | Artista M | Album M | 3:00
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+1. Zulu | Artista Z | Album Z | 3:30 [ATUAL]
+2. Meio | Artista M | Album M | 3:00
+3. Alfa | Artista A | Album A | 2:05
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Nao ha musica anterior.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Reproduzindo (simulacao): Zulu | Artista Z | Album Z | 3:30
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Atual: Meio | Artista M | Album M | 3:00
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Playlist ordenada.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+1. Alfa | Artista A | Album A | 2:05
+2. Meio | Artista M | Album M | 3:00 [ATUAL]
+3. Zulu | Artista Z | Album Z | 3:30
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Atual: Alfa | Artista A | Album A | 2:05
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Nao ha musica anterior.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Reproduzindo (simulacao): Alfa | Artista A | Album A | 2:05
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Buscar por titulo, artista ou album:
+Meio | Artista M | Album M | 3:00
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Posicao:
+Removida: Meio | Artista M | Album M | 3:00
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Titulo:
+Removida: Zulu | Artista Z | Album Z | 3:30
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+1. Alfa | Artista A | Album A | 2:05 [ATUAL]
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Titulo:
+Removida: Alfa | Artista A | Album A | 2:05
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Playlist vazia.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Posicao:
+Posicao invalida.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
+Opcao invalida.
+
+PLAYLIST
+1 Adicionar no inicio
+2 Adicionar no fim
+3 Adicionar na posicao
+4 Remover por posicao
+5 Remover por titulo
+6 Listar
+7 Proxima
+8 Anterior
+9 Reproduzir atual
+10 Ordenar por titulo
+11 Buscar
+0 Sair
