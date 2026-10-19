@@ -4,7 +4,7 @@ Universidade Luterana do Brasil — ULBRA, Campus Torres
 Curso: ADS — Disciplina: Estrutura de Dados  
 Professor: Juliano Ramos Matos  
 Acadêmicos: **Regis Bopsin da Luz; Kailan de Scena Pacheco; Guilherme Birlem Machado**  
-Turma: **terça-feira à noite** — Data: **[PREENCHER]**
+Turma: **terça-feira à noite** — Data: 19/10/2026
 
 ## 1. Introdução
 
